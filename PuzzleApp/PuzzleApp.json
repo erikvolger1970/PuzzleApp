@@ -1,0 +1,112 @@
+[
+  {
+    "Offset": 6,
+    "Numbers": [ 19, 0, 0, 2, 3, 18, 0, 16, 12, 15 ],
+    "Description": "snoepgoed"
+  },
+  {
+    "Offset": 6,
+    "Numbers": [ 11, 20, 0, 0, 10, 20, 0, 17, 1 ],
+    "Description": "schaaldier"
+  },
+  {
+    "Offset": 5,
+    "Numbers": [ 18, 17, 0, 20, 10, 0, 24 ],
+    "Description": "als hulde aanbieden"
+  },
+  {
+    "Offset": 4,
+    "Numbers": [ 2, 9, 11, 20, 0, 22, 0, 0, 12, 1 ],
+    "Description": "deel van een klok"
+  },
+  {
+    "Offset": 5,
+    "Numbers": [ 18, 22, 0, 0, 20, 0, 20, 24 ],
+    "Description": "een hoger bod doen"
+  },
+  {
+    "Offset": 5,
+    "Numbers": [ 18, 13, 0, 10, 2, 0, 3, 20, 0 ],
+    "Description": "iets in beraad houden"
+  },
+  {
+    "Offset": 1,
+    "Numbers": [ 0, 0, 23, 20, 6, 18, 20, 19 ],
+    "Description": "geometrisch figuur"
+  },
+  {
+    "Offset": 6,
+    "Numbers": [ 3, 20, 12, 0, 10, 5, 0, 20, 0, 5 ],
+    "Description": "inborst"
+  },
+  {
+    "Offset": 2,
+    "Numbers": [ 0, 23, 0, 0, 14, 20, 15 ],
+    "Description": "gegoten voorwerp"
+  },
+  {
+    "Offset": 3,
+    "Numbers": [ 16, 4, 0, 0, 3 ],
+    "Description": "onbestendig"
+  },
+  {
+    "Offset": 5,
+    "Numbers": [ 0, 0, 19, 16, 20, 0, 6, 18, 20, 14 ],
+    "Description": "beddengoed"
+  },
+  {
+    "Offset": 4,
+    "Numbers": [ 18, 24, 10, 0, 0, 1, 16, 12, 0, 20, 24, 5 ],
+    "Description": "zorgwekkend"
+  },
+  {
+    "Offset": 0,
+    "Numbers": [ 0, 0, 15, 21, 0, 22, 18, 24 ],
+    "Description": "feestkleding"
+  },
+  {
+    "Offset": 4,
+    "Numbers": [ 2, 20, 0, 13, 0, 24, 5 ],
+    "Description": "aanlokkelijk"
+  },
+  {
+    "Offset": 3,
+    "Numbers": [ 23, 14, 23, 0 ],
+    "Description": "Egyptische koningin"
+  },
+  {
+    "Offset": 4,
+    "Numbers": [ 1, 9, 0, 3, 0, 12, 14 ],
+    "Description": "zandloper"
+  },
+  {
+    "Offset": 7,
+    "Numbers": [ 18, 24, 5, 20, 10, 0, 4, 0, 19, 20, 0 ],
+    "Description": "persoon die zich schuilhoudt"
+  },
+  {
+    "Offset": 5,
+    "Numbers": [ 24, 12, 7, 0, 1, 0, 7, 6, 12, 0, 20 ],
+    "Description": "giftige plant"
+  },
+  {
+    "Offset": 7,
+    "Numbers": [ 0, 12, 8, 20, 10, 21, 0,  0 ],
+    "Description": "peignoir"
+  },
+  {
+    "Offset": 6,
+    "Numbers": [ 7, 18, 8, 0, 4, 0, 0, 20 ],
+    "Description": "het ontvangen van de hostie"
+  },
+  {
+    "Offset": 1,
+    "Numbers": [ 23, 0, 7, 6, 0, 7, 0, 20, 24 ],
+    "Description": "een instapkaart ontvangen"
+  },
+  {
+    "Offset": 0,
+    "Numbers": [ 0, 20, 4, 10, 15, 9, 0 ],
+    "Description": "serie codsmetica-artikelen"
+  }
+]

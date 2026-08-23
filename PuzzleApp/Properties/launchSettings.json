@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PuzzleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "puzzleapp.json"
+    }
+  }
+}
